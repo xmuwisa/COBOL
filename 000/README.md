@@ -29,3 +29,8 @@
 - Fix appearance
     - Fix leading zeros/spaces
     - Learn and add screen section
+
+<br><br><br>
+#
+
+### **DISSECTING THE PROGRAM**
