@@ -13,11 +13,10 @@
     - PROGRAM-ID.
     - DATA DIVISION.<br>WORKING-STORAGE SECTION.
     - PROCEDURE DIVISION.
-- Learned the basic process of input/output
-    - accept input using _ACCEPT_ statement
+- Learned about the following statements
+    - accept/read user input using _ACCEPT_ statement
     - display using _DISPLAY_ statement
     - assign using _GIVING_ statement instead of _MOVE_ statement
-- Learned about applying choices of cases
     - evaluate cases using _EVALUATE_ statement
 - Learned to apply logic as how I work on other languages
     - Know logic or program flow (know what you want to do first!)
