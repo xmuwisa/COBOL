@@ -10,7 +10,7 @@ This repository serves as a documentation hub for my COBOL learning journey. In 
 Below are the programs in this space:
 | Folder | Program |
 |:-|:-|
-| [000](000/README.md) | [Basic Calculator](basic-calculator.cbl)
-| [001](001/README.md) | [Basic Calculator V2](basic-calculator-v2.cbl)
+| [000](000/README.md) | [Basic Calculator](000/basic-calculator.cbl)
+| [001](001/README.md) | [Basic Calculator V2](001/basic-calculator-v2.cbl)
 
 
