@@ -6,10 +6,10 @@
        
        DATA DIVISION.
        WORKING-STORAGE SECTION.
-       01 WS-FIRST PIC 9(3).
-       01 WS-SECOND PIC 9(3).
-       01 WS-RESULT PIC Z(9).
-       01 WS-OPERATOR PIC 9(1).
+       01  WS-FIRST PIC 9(3).
+       01  WS-SECOND PIC 9(3).
+       01  WS-RESULT PIC Z(9).
+       01  WS-OPERATOR PIC 9(1).
 
        PROCEDURE DIVISION.
            DISPLAY 'Input first number: '.
