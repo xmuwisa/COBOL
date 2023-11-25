@@ -22,9 +22,10 @@
                
                IF WS-RUN = 1
                    PERFORM BASIC-CALCULATOR
-               ELSE
+               ELSE IF WS-RUN = 0
                    DISPLAY 'PROGRAM ENDS...'
-               END-IF
+               ELSE
+                   DISPLAY '0 OR 1 ONLY'
            END-PERFORM.
 
            STOP RUN.

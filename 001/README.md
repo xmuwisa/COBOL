@@ -9,9 +9,25 @@
 - Basic error handling in input
 
 ### **NOTES**
-- ...
-<br/><br/>
->...
+- Learned use functions using:
+    - _PERFORM_
+- Learned how to loop using:
+    - _PERFORM UNTIL_
+- Used conditioning statements in the program using:
+    - _IF-ELSE_
+- Was able to somehow fix display
+    - _WITH NO ADVANCING_
+
+<br/>
+
+> I can't believe I was able to create a program like this with not much knowledge. Thanks to a friend who gave me an idea of what to improve in this program compared to my previous basic calculator program. He told me about how he created an enhanced program based on my first one, mentioning that it has a loop. Feeling challenged and suddenly motivated, I decided to do the same without looking at his code. Fortunately, this program ran; it just needed a few more fixes! <i>Thanks, Lou!</i> <br/><br/><i>I hope to continue making progress! And to you, the person reading this, I hope you find someone who will motivate you to program too~</i>
+
+<br/>
+
 
 ### **TO IMPROVE:**
-- ...
+- Learn and use `SCREEN SECTION`
+- Improve error handling
+- Signed numerics
+- Enhance overall functionality
+- Will consult with someone
