@@ -1,4 +1,4 @@
- **<h1 align="center">Basic Calculator</h1>**
+ **<h1 align="center">Basic Calculator V2</h1>**
 
 ### **PROGRAM FUNCTIONS**
 - Accept two numerical inputs as operands
