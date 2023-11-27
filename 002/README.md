@@ -5,6 +5,7 @@
 - Count the total of kids in the record with their IDs
 - Evaluate the toy type with A as soft and B as hard
 - Add each kid's total number of toys 
+- Write to output file
 
 ### **NOTES**
 - Improved my patience /(TT-TT)\
