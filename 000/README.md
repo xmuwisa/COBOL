@@ -21,8 +21,8 @@
 - Learned to apply logic as how I work on other languages
     - Know logic or program flow (know what you want to do first!)
     - Convert logic or created program flow to a working cobol program (work your way from knowing the logic or program flow to applying/programming it!)
-<br/><br/>
->This was so much fun. My favorite thing to do when programming is the initial process of understanding what I want to accomplish and defining the logic of my program. I then enjoy applying these concepts, transforming my objectives, goals, or thoughts into a functional program.<br/><br/>Isn't it exciting and satisfying when the code runs successfully, bringing my initial vision for the program to life?<br/><br/>I initially doubted my ability to learn COBOL; I found it challenging and thought I wouldn't enjoy it as much as learning other languages. However, when I managed to apply my thoughts or the logic I had created in my mind, it felt rewarding.<br/><br/>I hope to continue making progress! <i>If you are reading this, I hope you'll enjoy what you started learning too~</i>
+
+<br/>
 
 ### **TO IMPROVE:**
 - Add restrictions/error handlers
@@ -30,3 +30,13 @@
 - Fix appearance
     - Fix leading zeros/spaces
     - Learn and add screen section
+
+<br/>
+
+#
+
+<details><summary><b><i>CLICK TO SEE MORE OF MY THOUGHTS TALKING</i></b></summary>
+
+>This was so much fun. My favorite thing to do when programming is the initial process of understanding what I want to accomplish and defining the logic of my program. I then enjoy applying these concepts, transforming my objectives, goals, or thoughts into a functional program.<br/><br/>Isn't it exciting and satisfying when the code runs successfully, bringing my initial vision for the program to life?<br/><br/>I initially doubted my ability to learn COBOL; I found it challenging and thought I wouldn't enjoy it as much as learning other languages. However, when I managed to apply my thoughts or the logic I had created in my mind, it felt rewarding.<br/><br/>I hope to continue making progress! <i>If you are reading this, I hope you'll enjoy what you started learning too~</i>
+
+</details>

@@ -1,0 +1,19 @@
+=====================
+  KID'S TOYS REPORT
+=====================
+ID | TOY TYPE | TOTAL
+---------------------
+02 |   SOFT   |  03
+           TOTAL: 003
+01 |   SOFT   |  05
+01 |   SOFT   |  07
+01 |   HARD   |  06
+           TOTAL: 018
+04 |   SOFT   |  03
+           TOTAL: 003
+20 |   SOFT   |  06
+           TOTAL: 006
+22 |   HARD   |  20
+22 |   SOFT   |  05
+           TOTAL: 025
+TOTAL KIDS: 005

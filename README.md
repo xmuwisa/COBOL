@@ -12,5 +12,6 @@ Below are the programs in this space:
 |:-|:-|
 | [000](000/README.md) | [Basic Calculator](000/basic-calculator.cbl)
 | [001](001/README.md) | [Basic Calculator V2](001/basic-calculator-v2.cbl)
+| [002](002/README.md) | [Kids and their toys?](002/kids-and-their-toys.cbl)
 
 
