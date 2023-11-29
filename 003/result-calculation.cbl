@@ -24,7 +24,7 @@
            05 FILL         PIC X(1) VALUE SPACE.
            05 DISPLAY-R    PIC X(5) VALUE "REM: ".
            05 WS-REM       PIC 9(3).
-       01 WS-END           PIC 9(1).
+       01 WS-END           PIC 9(1) VALUE 0.
 
        PROCEDURE DIVISION.
            PERFORM UNTIL WS-END = 1
@@ -35,7 +35,12 @@
                PERFORM RSLT-CALCULATION
                DISPLAY "END? 0:NO | 1:YES => " WITH NO ADVANCING
                ACCEPT WS-END
+               IF WS-END = 1
+                   DISPLAY "Program ends..."
+               END-IF
            END-PERFORM.
+
+           STOP RUN.
 
            RSLT-CALCULATION.
                ADD WS-INPUT-1 TO WS-INPUT-2
@@ -47,6 +52,3 @@
                DIVIDE WS-INPUT-1 BY WS-INPUT-2
                    GIVING WS-QUO REMAINDER WS-REM
                DISPLAY WS-RESULT.
-
-           STOP RUN.
-                   
